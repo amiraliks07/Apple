@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+}
+header{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 30px;
+    
+}
+
+.airpod1{
+    padding: 20px;
+    text-align: center;
+}
+
+.airpods{
+    display: inline-block;
+    border-color: #fff;
+    padding: 20px;
+    margin: 50px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgb(0, 0, 0.1);
+    width: 300px;
+    text-align: left;
+}
+
+.airpods img{
+    width: 100%;
+    border-radius: 8px;
+}
+
+.airpods h3{
+    margin-top: 15px;
+    font-size: 18px;
+    color: #333;
+}
+
+.airpods p{
+    color: #777;
+}
+
+footer{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+

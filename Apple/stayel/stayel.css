@@ -1,0 +1,160 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+header{
+    text-align: center;
+    margin-top: -400px;
+    color: black;
+
+}
+
+
+
+
+
+
+
+@media(max-width:700px){
+   
+    
+}
+
+
+
+
+
+#hi{
+    margin-top: 18%;
+    
+    
+    text-align: center;
+}
+
+div{
+    text-align: center;
+ 
+}
+#mls{
+   margin-left: 5%;
+        width: 90%;
+        margin-top: 10%;
+}
+
+#section>img{
+    width: 25%;
+    padding: 2%;
+    float: left;
+    margin-top: -10%;
+    
+
+
+}
+
+
+
+
+footer{
+    background-color: rgb(190, 190, 190);
+    margin-top: 40%;
+    text-align: center;
+    padding: 50px;
+    text-decoration: none;
+   
+}
+
+#footer1{
+    float: right;
+    display: block;
+    width: 2%;
+    color: black;
+    
+}
+
+
+#footer2{
+    text-align: center;
+    display: block;
+    width: 2%;
+    padding: 5px;
+ margin-left: 45%;
+ color: black;
+}
+
+
+
+
+#footer3{
+    float: left;
+    display: block;
+    width: 2%;
+    color: black;
+    margin-top: -11%;
+}
+.buy-button {
+    display: inline-block;
+    margin-top: 10px;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+
+.buy-button:hover {
+    background-color: #5099e7;
+}
+
+/* طراحی منو با رنگ‌های ساده مشابه اپل */
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    background-color: #f8f8f7; /* رنگ پس‌زمینه روشن */
+}
+
+/* طراحی Navbar */
+.navbar {
+    background-color: white;
+    padding: 15px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* طراحی لینک‌های منو */
+.navbar-nav .nav-item .nav-link {
+    color: #333;
+    font-size: 16px;
+    font-weight: 500;
+    margin-right: 20px;
+    text-transform: uppercase;
+    padding: 0 5px;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #0071e3; /* رنگ آبی روشن مشابه رنگ اپل */
+}
+
+/* برچسب برند */
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    text-transform: uppercase;
+}
+
+/* استایل برای ریسپانسیو بودن منو */
+@media (max-width: 768px) {
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .navbar-nav .nav-item {
+        margin-right: 0;
+    }
+
+    .navbar-nav .nav-item .nav-link {
+        font-size: 18px;
+        padding: 10px 0;
+    }
+}

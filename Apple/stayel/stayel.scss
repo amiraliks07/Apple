@@ -1,0 +1,86 @@
+@import 'k.s';
+
+body{
+    height: $body;
+}
+header{
+    text-align: $header;
+    margin-top: $header;
+    color: $header;
+}
+main{
+    margin-top: $main;
+}
+#img1{
+    text-align: $img1;
+    margin-top: $img1;
+}
+#ww{
+    display: $ww;
+    text-align: $ww;
+    margin-left: $ww;
+}
+section{
+    margin-top: $section;
+}
+section>h2{
+    margin-bottom: $section2;
+    padding: $section2;
+    border: $section2;
+    color: $section2;
+}
+#div{
+    margin-top: $div;
+}
+#div>h1{
+    text-align: $divh1;
+    margin-top: $divh1;
+    color: $divh1;
+}
+#hi{
+    margin-top: $hi;
+    text-align: $hi;
+}
+#mls{
+    margin-left: $mls;
+    width: $mls;
+    margin-top: $mla;
+}
+
+#section>img{
+    width: $simg;
+    padding: $simg;
+    float: $simg;
+    margin-top: $simg;
+}
+#buy{
+    border: $buy;
+    width: $buy;
+    padding: $buy;
+    text-decoration: $buy;
+}
+#Buy{
+    text-decoration: $Buy;
+}
+#footer{
+    background-color: $footer;
+    margin-top: $footer ;
+    text-align: $footer;
+    padding: $footer;
+    text-decoration: $footer;
+}
+
+#footer1{
+    float: $footer1;
+    display: $footer1;
+    width: $footer1;
+    color: $footer1;
+}
+#footer2{
+    text-align: $footer2;
+    display: $footer2;
+    width: $footer2;
+    padding: $footer2;
+    margin-left: $footer2;
+    color: $footer2;
+}
